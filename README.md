@@ -6,7 +6,7 @@
 **Overview of the Project:** <br/>
 As an Analytics Consultant for Massachusetts General Hospital (MGH), I developed a comprehensive KPI dashboard to provide actionable insights into the hospital's recent performance. This dashboard aims to give the executive team a clear and concise view of key metrics that impact patient care and operational efficiency.
 
-**Key Metrics and Visualizations:**
+**Key Metrics and Visualizations:** <br/>
 📊 Admissions & Readmissions Over Time:
 Line Chart showing trends in patient admissions and readmissions, helping to identify patterns and potential areas for improvement.<br/>
 
@@ -19,7 +19,7 @@ KPI displaying the average cost per hospital visit, aiding in financial planning
 🛡️ Insurance Coverage:
 Stacked Bar Chart illustrating the number of procedures covered by insurance, highlighting the financial impact on patients and the hospital. <br/>
 
-**Technical Highlights:**
+**Technical Highlights:**<br/>
 🔧 Data Modeling:
 Integrated multiple data tables, including patient records, encounters, procedures, and payers, to ensure a holistic view of hospital operations. <br/>
 
@@ -29,5 +29,5 @@ Implemented interactive slicers for flexible data exploration, allowing stakehol
 📐 DAX Calculations:
 Utilized DAX formulas to calculate critical metrics such as readmission rates and percentage of covered procedures, ensuring accurate and insightful analysis. <br/>
 
-**Why This Matters:**
+**Why This Matters:** <br/>
 Understanding these KPIs empowers MGH to make data-driven decisions that enhance patient care, optimize operational efficiency, and manage costs effectively. This dashboard is a step towards leveraging analytics to transform healthcare delivery.
